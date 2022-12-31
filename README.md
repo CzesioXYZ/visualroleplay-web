@@ -1,4 +1,4 @@
 # Stronka visualroleplay 
-
-[Podgląd]:
-https://www.visualroleplay.pl/
+#
+# [Podgląd]:
+# https://www.visualroleplay.pl/
